@@ -6,4 +6,4 @@ Userstyle to make [npmjs.com][npmjs] use triple columns, again. See https://gith
 
 ## License
 
-MIT
+[![CC-BY](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/ "Creative Commons License")
