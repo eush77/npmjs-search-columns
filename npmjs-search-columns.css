@@ -1,0 +1,15 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("www.npmjs.com") {
+  .content-column, .sidebar {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  
+  .search-results > li {
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+  }
+}
