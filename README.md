@@ -2,6 +2,8 @@
 
 Userstyle to make [npmjs.com][npmjs] use triple columns, [again](https://github.com/npm/newww/pull/1026).
 
+![screenshot](screenshot.png)
+
 [npmjs]: https://www.npmjs.com/
 
 ## Install
